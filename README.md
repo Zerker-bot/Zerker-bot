@@ -1,6 +1,6 @@
 
-### **About me**
-#🌱 I’m currently learning
+# **About me** #
+🌱 I’m currently learning
 <!--
 **Zerker-bot/Zerker-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
